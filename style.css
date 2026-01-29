@@ -8,6 +8,8 @@ display:flex;
 align_items:center;
 justify_content:center;
 z_index:9999;
+opacity:1;
+transition:opacity 0.8s ease-in-out;
 }
 #splash img{
 width:10%;
