@@ -1,0 +1,19 @@
+#splash{
+position:fixed;
+top:0;
+left:0;
+width:1000%;
+height:100%;
+display:flex;
+align_items:center;
+justify_content:center;
+z_index:9999;
+}
+#splash img{
+width:10%;
+height:auto;
+margin-bottom:15px;
+}
+#main-content{
+display:none
+}
